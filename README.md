@@ -117,12 +117,6 @@
 
 
 ### 👥 팀원별 구현 기능
-< 팀원 소개 >
-- [도경민](https://github.com/mindyhere)
-- [박미현](https://github.com/Miihyunee)
-- [양미영](https://github.com/didaldud)
-- [조연우](https://github.com/yunuyununu)🙌
-- [홍재희](https://github.com/jh91019)
 
 
 ![team](https://github.com/jh91019/android/assets/156145497/e90d15c6-c666-4275-9262-df549e33b49c)
